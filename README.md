@@ -65,3 +65,7 @@
 <p align="center">Terima kasih telah mengunjungi halaman kami 🙏</p>
 <p align="center">📅 Terakhir diperbarui: 29/08/2025</p>
 <p align="center">💡 Oleh: Tim <a href="https://komunitek.com" target="_blank">Komunitek</a></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/komunitek/komunitek/refs/heads/main/tres-amigos%402x.png" alt="Gambar Transparan" width="300">
+</p>
