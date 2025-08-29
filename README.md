@@ -63,7 +63,6 @@
 ---
 
 <p align="center">Terima kasih telah mengunjungi halaman kami 🙏</p>
-<p align="center">📅 Terakhir diperbarui: 29/08/2025</p>
 <p align="center">💡 Oleh: Tim <a href="https://komunitek.com" target="_blank">Komunitek</a></p>
 
 <p align="center">
